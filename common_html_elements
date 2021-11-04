@@ -1,0 +1,12 @@
+|   HTML          | Description                                                               |
+| <b></b>         | Formats enclosed text in a bold typeface                                  |
+| <br>            | Inserts a line break                                                      |
+| <center>        | Centers a paragraph in the middle of a Web page.                          |
+| <head></head>   | Encloses the page header and contains informatio about the entire page    |
+| <hn></hn>       | Indicates heading level elements, whre n represents a number from 1 to 6  |
+| <hr>            | Inserts a horizontal rule                                                 |
+| <html></html>   | Begins and ends with an HTML document; thare are required elements        |
+| <i></i>         | Formats enclosed text in an italic typeface                               |
+| <img src="..."  | Inserts an image file                                                     |        
+| <p></p>         | Identifies enclosed text as a paragraph                                   |
+| <u></u>         | Format enclosed text as underlined                                        |
